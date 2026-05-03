@@ -1,5 +1,5 @@
 Hello,
 
-This repository is for keeping track of progress in ECE 180DA.
+This repository is for keeping track of testing progress in ECE 180DA.
 
 Thanks!
